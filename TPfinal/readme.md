@@ -1,1 +1,2 @@
-# TP FINAL
+# Trabajo práctico final
+## Ciudad: Ghent (Bélgica)
